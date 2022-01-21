@@ -1,0 +1,22 @@
+{
+  "name": "heroku-web-service-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewwhitten/Heroku-Web-Service-JWT.git"
+  },
+  "author": "Andrew Whitten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewwhitten/Heroku-Web-Service-JWT/issues"
+  },
+  "homepage": "https://github.com/andrewwhitten/Heroku-Web-Service-JWT#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
